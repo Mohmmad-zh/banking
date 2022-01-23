@@ -1,0 +1,10 @@
+.viewButton{
+    color: #0077b6 !important;
+    background-color: white !important;
+    padding: "3px 30px" !important;
+}
+.viewButton:hover{
+    background-color: #0077b6 !important;
+    color: white !important;
+    padding: "3px 30px" !important;
+}

@@ -1,0 +1,18 @@
+center{
+    background-color: white;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.detailsButton:hover{
+    color: #0077b6 !important;
+    background-color: #fffffe !important;
+    padding: "3px 30px" !important;
+}
+.detailsButton{
+    background-color: #0077b6 !important;
+    color: #fffffe !important;
+    padding: "3px 30px" !important;
+}

@@ -1,0 +1,54 @@
+.createButton {
+  background-color: #0077b6 !important;
+  color: white !important;
+  border: 1px solid #0077b6 !important;
+}
+.createButton:hover {
+  color: #0077b6 !important;
+  background-color: white !important;
+  border: 1px solid #0077b6 !important;
+}
+
+.cardsLink{
+    color: #0077b6 !important;
+    background-color: white !important;
+    border: 1px solid #0077b6 !important;
+}
+ .cardsLink:hover{
+    background-color: #0077b6 !important;
+    color: white !important;
+    border: 1px solid #0077b6 !important;
+ }
+
+ .withdraw{
+    color:#a11d33 !important;
+    background-color: white !important;
+    border: 1px solid #a11d33 !important;
+ }
+ .withdraw:hover{
+    background-color:#a11d33 !important;
+    color: white !important;
+    border: 1px solid #a11d33 !important;
+ }
+
+ .transfer{
+    color: #00b4d8 !important;
+    background-color: white !important;
+    border: 1px solid #00b4d8 !important;
+     }
+     .transfer:hover{
+        background-color: #00b4d8 !important;
+        color: white !important;
+        border: 1px solid #00b4d8 !important;
+         }
+
+ .deposit:hover{
+    background-color: #008000 !important;
+    color: white !important;
+    border: 1px solid #008000 !important;
+ }
+ .deposit{
+    color: #008000 !important;
+    background-color: white !important;
+    border: 1px solid #008000 !important;
+ }
